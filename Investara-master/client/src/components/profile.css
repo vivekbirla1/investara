@@ -1,0 +1,8 @@
+@media only screen and (max-width: 768px) {
+  .profile_sec {
+    padding: 0 !important;
+  }
+  .profile_info {
+    padding-left: 1rem !important;
+  }
+}

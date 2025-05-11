@@ -1,0 +1,17 @@
+@media only screen and (max-width: 768px) {
+  .contact {
+    width: 100vw;
+    flex-direction: column;
+  }
+
+  .contact_form {
+    width: 100vw !important;
+  }
+}
+.contact-img {
+  /* width: 800px;
+  height: 500px; */
+
+  /* background-size: 50%; */
+  background-repeat: no-repeat !important;
+}
